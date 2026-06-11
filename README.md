@@ -53,13 +53,7 @@
 
 ### 📊 GitHub Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chanhengchhun&show_icons=true&bg_color=161b22&title_color=40c463&icon_color=216e39&text_color=C9D1D9&border_color=30363d&border_radius=8&custom_title=%E2%80%8B&hide_rank=true&hide=prs,issues,contribs" alt="Jey's GitHub Stats" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanhengchhun&layout=compact&bg_color=161b22&title_color=40c463&text_color=C9D1D9&border_color=30363d&border_radius=8&hide=html,css&custom_title=%E2%80%8B" alt="Top Languages" />
-</div>
 
-<br>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chanhengchhun&bg_color=00000000&color=216e39&line=40c463&point=FFFFFF&area=false&hide_border=true&custom_title=Contribution%20Graph" alt="Jey's Activity Graph" width="100%"/>
