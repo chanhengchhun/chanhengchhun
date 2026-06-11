@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=40c463&center=false&vCenter=true&width=450&height=30&lines=Building+things...;Breaking+things...;Learning+new+things...)](https://git.io/typing-svg)
 
-[chanheng.me](https://chanheng.me) • [LinkedIn](https://chanheng.me)
+[![Website](https://img.shields.io/badge/chanheng.me-216e39?style=flat-square&logo=google-chrome&logoColor=white)](https://chanheng.me) &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://chanheng.me)
 
 
 ---
@@ -25,9 +25,9 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
 </p>
 
 **Frameworks & Tools**
@@ -40,12 +40,16 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/JetBrains-000000?style=flat-square&logo=jetbrains&logoColor=white" alt="JetBrains"/>
+  <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white" alt="RStudio"/>
+  <img src="https://img.shields.io/badge/Positron-447099?style=flat-square&logo=posit&logoColor=white" alt="Positron"/>
 </p>
 
 **Data Science**
 <p align="left">
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Tidyverse-438DD5?style=flat-square&logo=tidyverse&logoColor=white" alt="Tidyverse"/>
+  <img src="https://img.shields.io/badge/ggplot2-276DC3?style=flat-square&logo=r&logoColor=white" alt="ggplot2"/>
   <img src="https://img.shields.io/badge/Quarto-47848F?style=flat-square&logo=quarto&logoColor=white" alt="Quarto"/>
 </p>
 
