@@ -2,7 +2,7 @@
 
 # Jey Chhun
 
-*Computer Science Student in Columbus, Ohio*
+*Computer Science Student*
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=40c463&center=false&vCenter=true&width=450&height=30&lines=Building+things...;Breaking+things...;Learning+new+things...)](https://git.io/typing-svg)
 
