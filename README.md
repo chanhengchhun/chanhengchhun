@@ -53,10 +53,10 @@
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td valign="top" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=chanhengchhun&show_icons=true&bg_color=161b22&title_color=D4764E&icon_color=E07A5F&text_color=C9D1D9&border_color=30363d&border_radius=8&custom_title=%E2%80%8B&hide_rank=true" alt="Jey's GitHub Stats" height="150"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=chanhengchhun&show_icons=true&bg_color=161b22&title_color=40c463&icon_color=216e39&text_color=C9D1D9&border_color=30363d&border_radius=8&custom_title=%E2%80%8B&hide_rank=true" alt="Jey's GitHub Stats" height="150"/>
       </td>
       <td valign="top" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanhengchhun&layout=compact&bg_color=161b22&title_color=D4764E&text_color=C9D1D9&border_color=30363d&border_radius=8&hide=html,css&custom_title=%E2%80%8B" alt="Top Languages" height="150"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanhengchhun&layout=compact&bg_color=161b22&title_color=40c463&text_color=C9D1D9&border_color=30363d&border_radius=8&hide=html,css&custom_title=%E2%80%8B" alt="Top Languages" height="150"/>
       </td>
     </tr>
   </table>
@@ -65,11 +65,11 @@
 <br>
 
 <div align="center">
-  <img src="profile-3d-contrib/profile-green.svg" alt="Jey's 3D Contribution Chart" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chanhengchhun&bg_color=00000000&color=216e39&line=40c463&point=FFFFFF&area=false&hide_border=true&custom_title=Contribution%20Graph" alt="Jey's Activity Graph" width="100%"/>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=chanhengchhun&style=flat-square&color=D4764E&label=Views" alt="Views"/>
+  <img src="https://komarev.com/ghpvc/?username=chanhengchhun&style=flat-square&color=40c463&label=Views" alt="Views"/>
 </div>
