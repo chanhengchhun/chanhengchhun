@@ -47,8 +47,6 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Quarto-47848F?style=flat-square&logo=quarto&logoColor=white" alt="Quarto"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
 </p>
 
 ---
@@ -56,7 +54,7 @@
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chanhengchhun&show_icons=true&bg_color=161b22&title_color=40c463&icon_color=216e39&text_color=C9D1D9&border_color=30363d&border_radius=8&custom_title=%E2%80%8B&hide_rank=true" alt="Jey's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chanhengchhun&show_icons=true&bg_color=161b22&title_color=40c463&icon_color=216e39&text_color=C9D1D9&border_color=30363d&border_radius=8&custom_title=%E2%80%8B&hide_rank=true&hide=prs,issues,contribs" alt="Jey's GitHub Stats" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanhengchhun&layout=compact&bg_color=161b22&title_color=40c463&text_color=C9D1D9&border_color=30363d&border_radius=8&hide=html,css&custom_title=%E2%80%8B" alt="Top Languages" />
 </div>
