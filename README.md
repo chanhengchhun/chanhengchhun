@@ -12,7 +12,7 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🎓 CS student focused on web development, data science, and software engineering.
+- 🎓 CS student exploring web development, data science, and software engineering.
 - 🎯 Currently seeking my first internship opportunity.
 
 ---
