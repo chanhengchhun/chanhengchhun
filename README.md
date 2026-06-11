@@ -1,8 +1,13 @@
+![Header Accent](https://capsule-render.vercel.app/api?type=rect&color=216e39&height=15&section=header)
+
 # Jey Chhun 🍊
 
 *Computer Science Student in Columbus, Ohio*
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=40c463&center=false&vCenter=true&width=450&height=30&lines=Building+things...;Breaking+things...;Learning+new+things...)](https://git.io/typing-svg)
+
 [chanheng.me](https://chanheng.me) • [LinkedIn](https://chanheng.me)
+
 
 ---
 
