@@ -6,8 +6,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=40c463&center=false&vCenter=true&width=450&height=30&lines=Building+things...;Breaking+things...;Learning+new+things...)](https://git.io/typing-svg)
 
-[![Website](https://img.shields.io/badge/chanheng.me-216e39?style=flat-square&logo=google-chrome&logoColor=white)](https://chanheng.me) &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://chanheng.me)
-
 
 ---
 
