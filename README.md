@@ -53,10 +53,14 @@
 
 ---
 
+### 📈 Language Distribution
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanhengchhun&layout=compact&langs_count=8&bg_color=0D1117&title_color=40c463&text_color=FFFFFF&hide_border=true" alt="Jey's most used languages" />
+</div>
+
+---
+
 ### 📊 GitHub Activity
-
-
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chanhengchhun&bg_color=0D1117&color=216e39&line=40c463&point=FFFFFF&area=false&hide_border=true&custom_title=Contribution%20Graph&v=1" alt="Jey's Activity Graph" width="100%"/>
 </div>
