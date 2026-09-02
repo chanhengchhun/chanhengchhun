@@ -2,17 +2,6 @@
 
 # Jey Chhun
 
-*Computer Science Student*
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=40c463&center=false&vCenter=true&width=450&height=30&lines=Building+things...;Breaking+things...;Learning+new+things...)](https://git.io/typing-svg)
-
-
----
-
-### 🧑‍💻 About Me
-- 🎓 CS student exploring web development, data science, and software engineering.
-- 🎯 Currently seeking my first internship opportunity.
-
 ---
 
 ### 🛠️ Skills & Tech Stack
@@ -40,15 +29,6 @@
   <img src="https://img.shields.io/badge/JetBrains-000000?style=flat-square&logo=jetbrains&logoColor=white" alt="JetBrains"/>
   <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white" alt="RStudio"/>
   <img src="https://img.shields.io/badge/Positron-447099?style=flat-square&logo=posit&logoColor=white" alt="Positron"/>
-</p>
-
-**Data Science**
-<p align="left">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Tidyverse-438DD5?style=flat-square&logo=tidyverse&logoColor=white" alt="Tidyverse"/>
-  <img src="https://img.shields.io/badge/ggplot2-276DC3?style=flat-square&logo=r&logoColor=white" alt="ggplot2"/>
-  <img src="https://img.shields.io/badge/Quarto-47848F?style=flat-square&logo=quarto&logoColor=white" alt="Quarto"/>
 </p>
 
 ---
