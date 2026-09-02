@@ -53,13 +53,6 @@
 
 ---
 
-### 📈 Language Distribution
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanhengchhun&layout=compact&langs_count=8&bg_color=0D1117&title_color=40c463&text_color=FFFFFF&hide_border=true" alt="Jey's most used languages" />
-</div>
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=chanhengchhun&style=flat-square&color=40c463&label=Views" alt="Views"/>
 </div>
